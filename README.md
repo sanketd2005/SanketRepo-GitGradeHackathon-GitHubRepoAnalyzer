@@ -8,4 +8,6 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+  # Report and Documentation📄
+  Detailed project documentation is available named "GitGrade_Project_Report.pdf"
